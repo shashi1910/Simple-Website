@@ -17,6 +17,7 @@ const Addblog = () => {
 
             <label id='img'>Images</label>
             <input htmlFor="title" type="file"/>
+            <button tyoe="submit">Submit</button>
         </form>
     </div>
   )
